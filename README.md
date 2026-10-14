@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # local_storage_labp2
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MAD_local_storage_lab
+>>>>>>> f974424588c585cdee3a1ba1e3062d24fc1aa38a
